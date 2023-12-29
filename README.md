@@ -1,1 +1,1 @@
-# calculator.com
+# calculator
